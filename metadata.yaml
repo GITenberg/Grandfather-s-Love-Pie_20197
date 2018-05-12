@@ -1,0 +1,27 @@
+_repo: Grandfather-s-Love-Pie_20197
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gaines, Miriam
+    gutenberg_agent_id: '9146'
+    url: http://www.gutenberg.org/2009/agents/9146
+description: ''
+gutenberg_issued: '2006-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20197'
+  lccn: '13021361'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christmas -- Juvenile fiction'
+- !lcsh 'Families -- Juvenile fiction'
+- !lcsh 'Grandfathers -- Juvenile fiction'
+- !lcc 'PZ'
+title: Grandfather's Love Pie
+url: http://www.gutenberg.org/ebooks/20197
